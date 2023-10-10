@@ -1,6 +1,6 @@
 # Varda
 drugstorepage in 2023 (teamwork)
-
+![](/varda_doc/varda_logo.png)
 <BR>
 <BR>
 
