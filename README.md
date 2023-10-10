@@ -27,17 +27,23 @@ __backend__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Springboot Mybatis MYSQL
 <BR>
 
 ## 주요 기능
-<li> 회원가입 :tada: 
+#### 회원가입 :tada: 
 ![](/varda_doc/signup.png)
-<li> 로그인 :beginner:
+---
+#### 로그인 :beginner:
 ![](/varda_doc/login.png)
-<li> 상품 등록 (관리자 권한) :crown:
+---
+#### 상품 등록 (관리자 권한) :crown:
 ![](/varda_doc/apply.png)
-<li> 상품 조회 :department_store:
+---
+#### 상품 조회 :department_store:
 ![](/varda_doc/search.png)
-<li> 장바구니 :heart:
+---
+#### 장바구니 :heart:
 ![](/varda_doc/cart.png)
-<li> 상품 리뷰 :notes:
+---
+#### 상품 리뷰 :notes:
 ![](/varda_doc/review.png)
+---
 
 
