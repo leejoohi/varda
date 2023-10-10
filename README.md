@@ -21,18 +21,23 @@ __backend__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Springboot Mybatis MYSQL
 <BR>
 
 ## ERD
-![](C:\vardaWorkspace\varda_doc\varda_erd.png)
+![](/varda_doc/varda_erd.png)
 
 <BR>
 <BR>
 
 ## 주요 기능
 <li> 회원가입 :tada: 
-<li> 로그인 
-<li> 상품 등록 (관리자 권한)
-<li> 상품 조회
-<li> 장바구니
-<li> 상품 주문
-<li> 상품 리뷰
+![](/varda_doc/signup.png)
+<li> 로그인 :beginner:
+![](/varda_doc/login.png)
+<li> 상품 등록 (관리자 권한) :crown:
+![](/varda_doc/apply.png)
+<li> 상품 조회 :department_store:
+![](/varda_doc/search.png)
+<li> 장바구니 :heart:
+![](/varda_doc/cart.png)
+<li> 상품 리뷰 :notes:
+![](/varda_doc/review.png)
 
 
